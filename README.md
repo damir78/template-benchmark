@@ -1,3 +1,10 @@
+Example Results
+===============
+
+![Template Comparison](diagram-17.05.2019.png)
+![Template Comparison](benchmark-17.05.2019.png)
+![Template Comparison](pc-info.png)
+
 template-benchmark
 ================
 
@@ -36,9 +43,4 @@ Interpreting the Results
 The benchmarks measure throughput, given in "ops/time". The time unit used is seconds.
 Generally, the score represents the number of templates rendered per second; the higher the score, the better.
 
-Example Results
-===============
 
-![Template Comparison](diagram-17.05.2019.png)
-![Template Comparison](benchmark-17.05.2019.png)
-![Template Comparison](pc-info.png)
