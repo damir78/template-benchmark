@@ -40,3 +40,5 @@ Example Results
 ===============
 
 ![Template Comparison](diagram-17.05.2019.png)
+![Template Comparison](benchmark-17.05.2019.png)
+![Template Comparison](pc-info.png)
